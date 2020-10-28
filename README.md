@@ -33,6 +33,10 @@ Figure12: Relationship Matrix for the three indices shows a positive correlation
 
 Figure13: Candlestick for DOW index YTD shows greatest impact at the end of March 2020.
 
+![Daily Percentage Change Comparison](Figures/Figure19.png)
+
+Figure19: A comparison of the daily percentage change for all the indices.
+
 
 ### TOOLS USED
 1. Python
