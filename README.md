@@ -11,6 +11,7 @@ The purpose of this project is to perform a basic analysis of the stock market i
 3. How did the stock market react in previous epidemics/pandemic?
 
 ### Methods Used
+* Extract and Transform
 * Data Visualization
 
 ### Technologies
