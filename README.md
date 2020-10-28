@@ -17,7 +17,7 @@ Throughout history, the stock market has proven to be resilient in the face of a
 ### PROCESS
 The logic behind the project was to utilize the massive dataset available from Finnhub API to understand the stock market better. As the data was examined closely, new questions surfaced which required additional data sources. For extensive data on COVID-19, Kaggle provided a dataset broken down to the counties level. Moreover, other financial datasets were used to fill in the missing pieces of the story.
 
-Once the data was extracted from the respective sources in Python, Pandas was used to transform and clean up the data. 
+Once the data was extracted from the respective sources using Python, Pandas was used to transform and clean up the data. 
 
 ### TOOLS USED
 1. Python
