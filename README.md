@@ -18,7 +18,10 @@ Once the data was extracted from the respective sources using Python, Pandas was
 Throughout history, the stock market has proven to be resilient in the face of adversity. Since the beginning, the stock market has only climbed, with slight corrections along the way, however the general trends show and upward movement. COVID-19 appears to be no exception, as it manages to create an initial impact but the stock market quickly recovered and continued on its growth trajectory. Even though the number of cases and deaths in the US are alarming, the stock market appears unaffected. These trends are similar to how the stock market reacted to previous epidemics and pandemics. However, one thing that distinguishes COVID-19 from any previous pandemics is the unprecedented aide provided by the Federal and State governments. The assistance is one of the reasons the stock market appears to be defying reality. Therefore, this basic analysis does not provide any foundation to predict how the stock market will perform in the future.
 
 ![Major Stock Indices Through History](Figures/Figure1.png)
+In the figure above, you are able to observe the upward trend for all the major stock indices since 1977. The major spike in year 2000 represents the bursting of the Dot.com, or technology, bubble.
 
+![COVID-19 State breakdown](Figures/Figure3.png)
+In this figure, the states with the highest COVID-19 cases are demonstrated.
 
 ### TOOLS USED
 1. Python
