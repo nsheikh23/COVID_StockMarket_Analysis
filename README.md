@@ -27,9 +27,11 @@ Figure3: The states with the highest COVID-19 cases are demonstrated.
 
 ![Indices Relationship Matrix](Figures/Figure12.png)
 
-Figure12: Relationship Matrix for the three indices.
+Figure12: Relationship Matrix for the three indices shows a positive correlation YTD.
 
+![DOW candlestick](Figures/Figure13.png)
 
+Figure13: Candlestick for DOW index YTD shows greatest impact at the end of March 2020.
 
 
 ### TOOLS USED
