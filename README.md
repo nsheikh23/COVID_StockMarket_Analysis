@@ -19,11 +19,18 @@ Throughout history, the stock market has proven to be resilient in the face of a
 
 ![Major Stock Indices Through History](Figures/Figure1.png)
 
-In the figure above, you are able to observe the upward trend for all the major stock indices since 1977. The major spike in year 2000 represents the bursting of the Dot.com, or technology, bubble.
+Figure1: You are able to observe the upward trend for all the major stock indices since 1977. The major spike in year 2000 represents the bursting of the Dot.com, or technology, bubble.
 
 ![COVID-19 State breakdown](Figures/Figure3.png)
 
-In this figure, the states with the highest COVID-19 cases are demonstrated.
+Figure3: The states with the highest COVID-19 cases are demonstrated.
+
+![Indices Relationship Matrix](Figures/Figure12.png)
+
+Figure12: Relationship Matrix for the three indices.
+
+
+
 
 ### TOOLS USED
 1. Python
