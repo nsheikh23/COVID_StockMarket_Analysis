@@ -19,6 +19,8 @@ The logic behind the project was to utilize the massive dataset available from F
 
 Once the data was extracted from the respective sources using Python, Pandas was used to transform and clean up the data. To visualize, Python libraries Matplotlib and Seaborn were used, which allowed a variety of figures.
 
+
+
 ### TOOLS USED
 1. Python
 2. Pandas
@@ -32,7 +34,7 @@ Once the data was extracted from the respective sources using Python, Pandas was
 3. Yahoo Finance
 4. data.world - "Stock Market from a High Level"
 
-### FIGURES
+### LIST OF FIGURES
 Figure 1: Major Stock Indices Since 1977
 Figure 2: Number Of Reported COVID-19 Cases By State
 Figure 3: States With Most Cases
