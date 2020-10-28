@@ -41,6 +41,9 @@ Figure19: A comparison of the daily percentage change for all the indices.
 
 Figure21: Another comparison of the daily percentage change in a box plot.
 
+![Previous Epidemics/Pandemics](Figures/Figure23.png)
+
+Figure23: Comparison of some of the previous epidemics/pandemics in US history and their impact on the stock market.
 
 ### TOOLS USED
 1. Python
