@@ -37,6 +37,10 @@ Figure13: Candlestick for DOW index YTD shows greatest impact at the end of Marc
 
 Figure19: A comparison of the daily percentage change for all the indices.
 
+![Daily Percentage Change Box Plot](Figures/Figure21.png)
+
+Figure21: Another comparison of the daily percentage change in a box plot.
+
 
 ### TOOLS USED
 1. Python
