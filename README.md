@@ -1,15 +1,26 @@
-# StockMarket Analysis
+# COVID Stock Market Analysis
+#### -- Project Status: [Completed]
 
-### OVERVIEW
-In this project, a basic analysis of the stock market is performed to answer the following questions:
+![Stock Market](Figures/stockmarket.jpg)
+
+## Project Objective
+The purpose of this project is to perform a basic analysis of the stock market is performed to answer the following questions:
 
 1. How has the stock market performed over the last few years?
 2. How has the stock market performed YTD amidst COVID-19?
 3. How did the stock market react in previous epidemics/pandemic?
 
-![Stock Market](Figures/stockmarket.jpg)
+### Methods Used
+* Data Visualization
 
-### PROCESS
+### Technologies
+* Python
+* Pandas, Jupyter
+* REST API
+* Matplotlib
+* Seaborn
+
+## Process
 The logic behind the project was to utilize the massive dataset available from Finnhub API to understand the stock market better. As the data was examined closely, new questions surfaced which required additional data sources. For extensive data on COVID-19, Kaggle provided a dataset broken down to the counties level. Moreover, other financial datasets were used to fill in the missing pieces of the story.
 
 Once the data was extracted from the respective sources using Python, Pandas was used to transform and clean up the data. To visualize, Python libraries Matplotlib and Seaborn were used, which allowed a variety of figures.
@@ -44,43 +55,39 @@ Figure21: Another comparison of the daily percentage change in a box plot.
 
 Figure23: Comparison of some of the previous epidemics/pandemics in US history and their impact on the stock market.
 
-### TOOLS USED
-1. Python
-2. Pandas
-3. REST API
-4. Matplotlib
-5. Seaborn
+## Featured Notebooks
+* MainScript
 
-### RESOURCES USED
-1. Finnhub API (https://finnhub.io/api/v1)
-2. Kaggle - us_counties_covid19_daily(CSV)
-3. Yahoo Finance
-4. data.world - "Stock Market from a High Level"
+## Resources
+* Finnhub API (https://finnhub.io/api/v1)
+* Kaggle - us_counties_covid19_daily(CSV)
+* Yahoo Finance
+* data.world - "Stock Market from a High Level"
 
-### FULL LIST OF FIGURES
- * Figure 1: Major Stock Indices Since 1977
- * Figure 2: Number Of Reported COVID-19 Cases By State
- * Figure 3: States With Most Cases
- * Figure 4: COVID-19 Cases And Deaths In The US Since March
- * Figure 5: Opening Prices Of Each Index YTD
- * Figure 6: Adjusted Closing Prices Of Each Index YTD
- * Figure 7: Trade Volume Per Day For Each Index YTD
- * Figure 8: Total Market Cap
- * Figure 9: Moving Average For DOW
- * Figure 10: Moving Average For NASDAQ
- * Figure 11: Moving Average for S&P 500
- * Figure 12: Relationship Matrix
- * Figure 13: DOW Candlesticks
- * Figure 14: NASDAQ Candlesticks
- * Figure 15: S&P 500 Candlesticks
- * Figure 16: DOW Daily Percentage Change
- * Figure 17: NASDAQ Daily Percentage Change
- * Figure 18: S&P 500 Daily Percentage Change
- * Figure 19: Daily Percentage Change Comparison
- * Figure 20: Kernel Density Estimate (kde) Comparison
- * Figure 21: Daily Percentage Change Box Plot
- * Figure 22: Indices Cumulative Return
- * Figure 23: Stock Market Case Study
+## Full List of Figures
+* Figure 1: Major Stock Indices Since 1977
+* Figure 2: Number Of Reported COVID-19 Cases By State
+* Figure 3: States With Most Cases
+* Figure 4: COVID-19 Cases And Deaths In The US Since March
+* Figure 5: Opening Prices Of Each Index YTD
+* Figure 6: Adjusted Closing Prices Of Each Index YTD
+* Figure 7: Trade Volume Per Day For Each Index YTD
+* Figure 8: Total Market Cap
+* Figure 9: Moving Average For DOW
+* Figure 10: Moving Average For NASDAQ
+* Figure 11: Moving Average for S&P 500
+* Figure 12: Relationship Matrix
+* Figure 13: DOW Candlesticks
+* Figure 14: NASDAQ Candlesticks
+* Figure 15: S&P 500 Candlesticks
+* Figure 16: DOW Daily Percentage Change
+* Figure 17: NASDAQ Daily Percentage Change
+* Figure 18: S&P 500 Daily Percentage Change
+* Figure 19: Daily Percentage Change Comparison
+* Figure 20: Kernel Density Estimate (kde) Comparison
+* Figure 21: Daily Percentage Change Box Plot
+* Figure 22: Indices Cumulative Return
+* Figure 23: Stock Market Case Study
 
 ***DISCLAIMER***
 
