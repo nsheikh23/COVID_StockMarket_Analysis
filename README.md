@@ -59,31 +59,32 @@ Figure23: Comparison of some of the previous epidemics/pandemics in US history a
 4. data.world - "Stock Market from a High Level"
 
 ### FULL LIST OF FIGURES
-Figure 1: Major Stock Indices Since 1977
-Figure 2: Number Of Reported COVID-19 Cases By State
-Figure 3: States With Most Cases
-Figure 4: COVID-19 Cases And Deaths In The US Since March
-Figure 5: Opening Prices Of Each Index YTD
-Figure 6: Adjusted Closing Prices Of Each Index YTD
-Figure 7: Trade Volume Per Day For Each Index YTD
-Figure 8: Total Market Cap
-Figure 9: Moving Average For DOW
-Figure 10: Moving Average For NASDAQ
-Figure 11: Moving Average for S&P 500
-Figure 12: Relationship Matrix
-Figure 13: DOW Candlesticks
-Figure 14: NASDAQ Candlesticks
-Figure 15: S&P 500 Candlesticks
-Figure 16: DOW Daily Percentage Change
-Figure 17: NASDAQ Daily Percentage Change
-Figure 18: S&P 500 Daily Percentage Change
-Figure 19: Daily Percentage Change Comparison
-Figure 20: Kernel Density Estimate (kde) Comparison
-Figure 21: Daily Percentage Change Box Plot
-Figure 22: Indices Cumulative Return
-Figure 23: Stock Market Case Study
+ * Figure 1: Major Stock Indices Since 1977
+ * Figure 2: Number Of Reported COVID-19 Cases By State
+ * Figure 3: States With Most Cases
+ * Figure 4: COVID-19 Cases And Deaths In The US Since March
+ * Figure 5: Opening Prices Of Each Index YTD
+ * Figure 6: Adjusted Closing Prices Of Each Index YTD
+ * Figure 7: Trade Volume Per Day For Each Index YTD
+ * Figure 8: Total Market Cap
+ * Figure 9: Moving Average For DOW
+ * Figure 10: Moving Average For NASDAQ
+ * Figure 11: Moving Average for S&P 500
+ * Figure 12: Relationship Matrix
+ * Figure 13: DOW Candlesticks
+ * Figure 14: NASDAQ Candlesticks
+ * Figure 15: S&P 500 Candlesticks
+ * Figure 16: DOW Daily Percentage Change
+ * Figure 17: NASDAQ Daily Percentage Change
+ * Figure 18: S&P 500 Daily Percentage Change
+ * Figure 19: Daily Percentage Change Comparison
+ * Figure 20: Kernel Density Estimate (kde) Comparison
+ * Figure 21: Daily Percentage Change Box Plot
+ * Figure 22: Indices Cumulative Return
+ * Figure 23: Stock Market Case Study
 
 ***DISCLAIMER***
-*THE FOLLOWING IS A BASIC ANALYSIS OF THE STOCK MARKET IN RESPONSE TO COVID-19 AND SOME OF THE PREVIOUS EPIDEMICS/PANDEMICS, HOWEVER IT IS NOT A FORECAST OF HOW THE MARKET WILL PERFORM IN THE FUTURE. NO MACHINE LEARNING OR PREDICTIVE MODELS HAVE BEEN USED FOR THIS PROJECT.
+
+THE FOLLOWING IS A BASIC ANALYSIS OF THE STOCK MARKET IN RESPONSE TO COVID-19 AND SOME OF THE PREVIOUS EPIDEMICS/PANDEMICS, HOWEVER IT IS NOT A FORECAST OF HOW THE MARKET WILL PERFORM IN THE FUTURE. NO MACHINE LEARNING OR PREDICTIVE MODELS HAVE BEEN USED FOR THIS PROJECT.
 
 *MOREOVER, THE UNITED STATES GOVERNMENT'S RESPONSE TO COVID-19 HAS BEEN UNPRECENDENTED, THEREFORE COMPARING IT TO HISTORICAL TRENDS IS UNFAIR BUT FOR THE SAKE OF THIS PROJECT AN ANALYSIS HAS BEEN PERFORMED TO HELP VISUALIZE AND UNDERSTAND THE STOCK MARKET BETTER.
