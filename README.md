@@ -9,16 +9,15 @@ In this project, a basic analysis of the stock market is performed to answer the
 
 ![Stock Market](Figures/stockmarket.jpg)
 
-### ANALYSIS
-Throughout history, the stock market has proven to be resilient in the face of adversity. Since the beginning, the stock market has only climbed, with slight corrections along the way, however the general trends show and upward movement. COVID-19 appears to be no exception, as it manages to create an initial impact but the stock market quickly recovered and continued on its growth trajectory. Even though the number of cases and deaths in the US are alarming, the stock market appears unaffected. These trends are similar to how the stock market reacted to previous epidemics and pandemics. However, one thing that distinguishes COVID-19 from any previous pandemics is the unprecedented aide provided by the Federal and State governments. The assistance is one of the reasons the stock market appears to be defying reality. Therefore, this basic analysis does not provide any foundation to predict how the stock market will perform in the future.
-
-![Major Stock Indices Through History](Figures/Figure1.png)
-
 ### PROCESS
 The logic behind the project was to utilize the massive dataset available from Finnhub API to understand the stock market better. As the data was examined closely, new questions surfaced which required additional data sources. For extensive data on COVID-19, Kaggle provided a dataset broken down to the counties level. Moreover, other financial datasets were used to fill in the missing pieces of the story.
 
 Once the data was extracted from the respective sources using Python, Pandas was used to transform and clean up the data. To visualize, Python libraries Matplotlib and Seaborn were used, which allowed a variety of figures.
 
+### ANALYSIS
+Throughout history, the stock market has proven to be resilient in the face of adversity. Since the beginning, the stock market has only climbed, with slight corrections along the way, however the general trends show and upward movement. COVID-19 appears to be no exception, as it manages to create an initial impact but the stock market quickly recovered and continued on its growth trajectory. Even though the number of cases and deaths in the US are alarming, the stock market appears unaffected. These trends are similar to how the stock market reacted to previous epidemics and pandemics. However, one thing that distinguishes COVID-19 from any previous pandemics is the unprecedented aide provided by the Federal and State governments. The assistance is one of the reasons the stock market appears to be defying reality. Therefore, this basic analysis does not provide any foundation to predict how the stock market will perform in the future.
+
+![Major Stock Indices Through History](Figures/Figure1.png)
 
 
 ### TOOLS USED
@@ -34,7 +33,7 @@ Once the data was extracted from the respective sources using Python, Pandas was
 3. Yahoo Finance
 4. data.world - "Stock Market from a High Level"
 
-### LIST OF FIGURES
+### FULL LIST OF FIGURES
 Figure 1: Major Stock Indices Since 1977
 Figure 2: Number Of Reported COVID-19 Cases By State
 Figure 3: States With Most Cases
